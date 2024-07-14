@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Codrut (Cody) Dubăț
-- 👀 I’m interested in Front-End Development
-- 🌱 I am proficient in JavaScript, HTML, CSS, but am also really good with Python & Bash
+- 👋 Hi, I’m Codruț (Cody) Dubăț
+- 👀 I’m a Frontend Web Developer
+- 🌱 I am proficient in JavaScript, HTML and CSS, but am also really good with Python & Bash
+- 🎨 My frameworks of choice are Lit, React, Next & Express
 - 📫 Reach me at codydjay@gmail.com
 
 <!---
